@@ -5,6 +5,8 @@ This container helps compiling latex sources without the need to install all lat
 
 Check out my [blog post](https://www.blang.io/posts/2015-04_docker-tooling-latex/).
 
+This fork aims at seamlessly integrating any of [blog_post](http://mrzool.cc/tex-boilerplates/) templates to create a personal CV.
+
 Setup
 -----
 First, add your local user to docker group:
